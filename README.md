@@ -1,6 +1,11 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
+<!--
+*** This is a suggestion for a README.
+*** Thanks to Best-README-Template: https://github.com/othneildrew/Best-README-Template for the very heavy inspiration!
+-->
+
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
