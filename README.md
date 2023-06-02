@@ -88,6 +88,16 @@ It is essential for you as a developer to know how to document your project by w
 
 Of course, no one template will serve all projects. So feel free to expand on this example and maybe even suggest changes by forking this repo and creating a pull request or opening an issue!
 
+Remember that you can also add gifs: 
+<div align="center">
+<img src="https://media.giphy.com/media/VePtB3roynxfLYicuV/giphy.gif" width="340" height="340" />
+</div>
+
+Or even a video!
+
+https://github.com/HVLrobotics/project-reporting-example/assets/106594471/46af6d75-2494-49d8-95d0-d91ca74435fd
+<!-- Its enough to just drag and drop the video, github does the embeding for you! -->
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -105,6 +115,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![JQuery][JQuery.com]][JQuery-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -223,8 +234,6 @@ Use this space to list resources you find helpful and would like to give credit 
 * [Best README Template](https://github.com/othneildrew/Best-README-Template)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
