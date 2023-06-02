@@ -27,7 +27,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/HVLrobotics/project-reporting-example">
-    <img src="images/logo.png" alt="Logo" width="180" height="180">
+    <img src="https://github.com/HVLrobotics/project-reporting-example/blob/9f3fef09243d8dec53e37df6c821e7fd0ef71b9e/%E2%80%ABimages/logo.png" alt="Logo" width="240" height="180">
   </a>
 
   <h3 align="center">project-reporting-example</h3>
@@ -221,7 +221,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/HVLrobotics/project-reporting-example/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/hvl-robotics
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: https://github.com/HVLrobotics/project-reporting-example/blob/9f3fef09243d8dec53e37df6c821e7fd0ef71b9e/%E2%80%ABimages/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
