@@ -16,7 +16,7 @@ Here's a link to a [local doc](local-doc.html), and to a [section heading in the
 
 
 Here's an image:
-![Alt text goes here](‫images/logo.png)
+![Alt text goes here](https://github.com/HVLrobotics/project-reporting-example/blob/b4df3332e57e1d2a37a41beea44fd3174a2ee491/%E2%80%ABimages/logo.png)
 
 > Block quotes are
 > written like so.
