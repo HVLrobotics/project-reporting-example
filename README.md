@@ -63,6 +63,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
+    <li><a href="#whats-included">What's Included</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#license">License</a></li>
@@ -88,7 +89,6 @@ It is essential for you as a developer to know how to document your project by w
 Of course, no one template will serve all projects. So feel free to expand on this example and maybe even suggest changes by forking this repo and creating a pull request or opening an issue!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ### Built With
@@ -144,6 +144,25 @@ By the way, this is how you reference to a file in the repo: Use the `README.md`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- File system example -->
+## What's included
+
+Some text
+
+```text
+folder1/
+└── folder2/
+    ├── folder3/
+    │   ├── file1
+    │   └── file2
+    └── folder4/
+        ├── file3
+        └── file4
+```
+
+Have a look at the [blog template](/blog/README.md)!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- USAGE EXAMPLES -->
